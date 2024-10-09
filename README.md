@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emil Maharramov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **NodeJs, WP Elementor**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **emil.mhr@div.edu.az**
 
