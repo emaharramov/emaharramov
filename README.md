@@ -40,7 +40,7 @@
 <p align="left">
   <strong>Polyvia</strong> — Vocabulary learning app focused on solving word retention problem. Built with Swift & SwiftUI.
   <a href="https://apps.apple.com/az/app/polyvia-learn-vocabulary/id6760778918" target="_blank">
-    <img src="https://www.image2url.com/r2/default/images/1776266630522-55d40409-c540-40de-a368-7daf5d9eff26.png" alt="image" width="200" />
+      <strong>Polyvia</strong> — Vocabulary learning app focused on solving word retention problem. Built with Swift & SwiftUI.
   </a>
 </p>
 
