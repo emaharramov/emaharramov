@@ -18,23 +18,23 @@
 </p>
 
 <h3 align="left">iOS Stack:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+<p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" style="display:inline-block; margin-right:10px;"/>
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="40" height="40" style="display:inline-block; margin-right:10px;"/>
   </a>
   <a href="https://developer.apple.com/documentation/swiftui" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40" height="40"/>
+    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40" height="40" style="display:inline-block; margin-right:10px;"/>
   </a>
   <a href="https://developer.apple.com/documentation/uikit" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" width="40" height="40"/>
+    <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" width="40" height="40" style="display:inline-block; margin-right:10px;"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" style="display:inline-block;"/>
   </a>
-</div>
+</p>
 
 <h3 align="left">Apps:</h3>
 <p align="left">
