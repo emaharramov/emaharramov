@@ -38,13 +38,10 @@
 
 <h3 align="left">Apps:</h3>
 <p align="left">
+  <strong>Polyvia</strong> — Vocabulary learning app focused on solving word retention problem. Built with Swift & SwiftUI.
   <a href="https://apps.apple.com/az/app/polyvia-learn-vocabulary/id6760778918" target="_blank">
     <img src="YOUR_SCREENSHOT_1_URL" width="200"/>
   </a>
-</p>
-
-<p align="left">
-  <strong>Polyvia</strong> — Vocabulary learning app focused on solving word retention problem. Built with Swift & SwiftUI.
 </p>
 
 <p align="left">
