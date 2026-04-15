@@ -20,7 +20,7 @@
 <h3 align="left">iOS Stack:</h3>
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://www.image2url.com/r2/default/images/1776266630522-55d40409-c540-40de-a368-7daf5d9eff26.png" alt="image" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="40" height="40"/>
@@ -40,7 +40,7 @@
 <p align="left">
   <strong>Polyvia</strong> — Vocabulary learning app focused on solving word retention problem. Built with Swift & SwiftUI.
   <a href="https://apps.apple.com/az/app/polyvia-learn-vocabulary/id6760778918" target="_blank">
-    <img src="YOUR_SCREENSHOT_1_URL" width="200"/>
+    <img src="https://www.image2url.com/r2/default/images/1776266630522-55d40409-c540-40de-a368-7daf5d9eff26.png" alt="image" width="200" />
   </a>
 </p>
 
