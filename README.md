@@ -5,14 +5,14 @@
 - 🚀 Currently improving my skills in **iOS architecture & performance**
 - 💼 Experience: **Kapital Bank (Payment Team)**
 - 📚 Focused on: **Clean Architecture, Networking, In-App Purchases**
-- 📫 Reach me: **emil.mhr@div.edu.az**
+- 📫 Reach me: **e.maharramov@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/emilmaharramov" target="blank">
+  <a href="https://linkedin.com/in/emilmaharramov" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/emilmaharramovv" target="blank">
+  <a href="https://instagram.com/emilmaharramovv" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
@@ -36,13 +36,20 @@
   </a>
 </p>
 
-<h3 align="left">Other Tools:</h3>
+<h3 align="left">Apps:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <a href="https://apps.apple.com/az/app/polyvia-learn-vocabulary/id6760778918" target="_blank">
+    <img src="YOUR_SCREENSHOT_1_URL" width="200"/>
   </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <strong>Polyvia</strong> — Vocabulary learning app focused on solving word retention problem. Built with Swift & SwiftUI.
+</p>
+
+<p align="left">
+  <a href="YOUR_APP_STORE_URL" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50"/>
   </a>
 </p>
 
