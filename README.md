@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">iOS Stack:</h3>
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
   </a>
@@ -34,7 +34,7 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <h3 align="left">Apps:</h3>
 <p align="left">
